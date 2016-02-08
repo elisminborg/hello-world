@@ -1,3 +1,2 @@
 # hello-world
-Just a tutorial
-This is the readme
+Just a tutorial. <br>This is the readme
